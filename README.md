@@ -13,6 +13,7 @@ CREATE TABLE USER_TBL(id NUMBER primary key, FIRSTNAME varchar2(50), LASTNAME va
 *HeidiSQL(для наглядной проверки корректности работы с БД)
 
 *Tomcat Apache
+---------------------------------------------------------------------------------------
 
 *Хорошее натсроение :)
 
