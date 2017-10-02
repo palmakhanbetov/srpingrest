@@ -6,6 +6,9 @@ someTestApp
 Для корректной работы требуется
 
 *MySQL
+----------------------------------------------------------------------------------------
+Создание таблицы USER_TBL:
+CREATE TABLE USER_TBL(id NUMBER primary key, FIRSTNAME varchar2(50), LASTNAME varchar2(50), BIRTHDATE date, STATUS NUMBER)
 
 *HeidiSQL(для наглядной проверки корректности работы с БД)
 
